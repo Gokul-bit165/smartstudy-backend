@@ -1,12 +1,14 @@
 # backend/requirements.txt
 fastapi
-uvicorn
 gunicorn
+uvicorn
 python-multipart
-chromadb
-sentence-transformers
-PyMuPDF
 supabase
 gotrue
 python-jose
+PyMuPDF
 ollama
+
+# Core ML libraries
+sentence-transformers
+chromadb
