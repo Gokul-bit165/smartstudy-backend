@@ -1,6 +1,12 @@
+# backend/requirements.txt
 fastapi
-uvicorn[standard]
+uvicorn
+gunicorn
 python-multipart
 chromadb
 sentence-transformers
 PyMuPDF
+supabase
+gotrue
+python-jose
+ollama
