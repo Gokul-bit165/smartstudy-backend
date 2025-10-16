@@ -7,7 +7,7 @@ supabase
 gotrue
 python-jose
 PyMuPDF
-ollama
+groq
 
 # Core ML libraries
 sentence-transformers
